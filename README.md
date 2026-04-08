@@ -24,6 +24,13 @@ A BAF agent that helps users safely query Knowledge Graphs (KGs) while preventin
 |---------|-------------|------|
 | v1 — safe KG querying | Initial agent generated using the [BESSER Agentic Framework (BAF)](https://github.com/BESSER-PEARL/BESSER-Agentic-Framework) | [Repository](https://github.com/BESSER-PEARL/BESSER-Ask-Safely) |
 
+### Publication Repository
+A web application for managing research publications, supporting BibTeX import, citation retrieval via OpenAlex, and publication analytics.
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1 — Publication Repository | Application generated with BESSER for managing research publications | [Repository](https://github.com/maurodlt/PublicationRepository) |
+
 ---
 
 ## How to Add Your Tool
