@@ -40,6 +40,16 @@ A web application for managing research publications, supporting BibTeX import, 
 
 ---
 
+### ConferenceEventPlanner
+
+A conference event planning application generated with BESSER, managing sessions, speakers, rooms, and schedules from a single domain model.
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1 — Generated | Event planner generated from BESSER models with session scheduling, speaker assignment, room allocation, and dashboard analytics | [Repository](https://github.com/AtefehNirumandJazi/ConferenceEventPlanner) |
+
+---
+
 ## How to Add Your Tool
 
 If you have built an application using BESSER and want it listed here:
