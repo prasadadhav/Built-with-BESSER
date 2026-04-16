@@ -24,6 +24,19 @@ A skill matching application that lets colleages or fellow students to look for 
 | Version | Description | Link |
 |---------|-------------|------|
 | v1.0.0 — Raw Generated | Backend and Frontend developed with BESSER | [Repository](https://github.com/natarajan-chidambaram/skillset-match) |
+### Ask Safely
+A BAF agent that helps users safely query Knowledge Graphs (KGs) while preventing potential disclosure of sensitive data to large language models (LLMs).
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1 — safe KG querying | Initial agent generated using the [BESSER Agentic Framework (BAF)](https://github.com/BESSER-PEARL/BESSER-Agentic-Framework) | [Repository](https://github.com/BESSER-PEARL/BESSER-Ask-Safely) |
+
+### Publication Repository
+A web application for managing research publications, supporting BibTeX import, citation retrieval via OpenAlex, and publication analytics.
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1 — Publication Repository | Application generated with BESSER for managing research publications | [Repository](https://github.com/maurodlt/PublicationRepository) |
 
 ---
 
