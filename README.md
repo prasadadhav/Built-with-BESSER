@@ -17,6 +17,13 @@ A Customer Relationship Management system generated with BESSER, showcasing how 
 | v1 — Raw Generated | Initial CRM generated directly from BESSER models | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/master) |
 | v2 — Enhanced | Extended with authentication, AI lead scoring, email assistant, and more | [Repository](https://github.com/ArmenSl/NexaCRM-BESSER/tree/v2_modified) |
 
+### SkillMatcher
+
+A skill matching application that lets colleages or fellow students to look for their teachers to learn skills. The app can match leraners and teachers automatically, setup sessions to learn an collect reviews too. This app is generated with BESSER.
+
+| Version | Description | Link |
+|---------|-------------|------|
+| v1.0.0 — Raw Generated | Backend and Frontend developed with BESSER | [Repository](https://github.com/natarajan-chidambaram/skillset-match) |
 ### Ask Safely
 A BAF agent that helps users safely query Knowledge Graphs (KGs) while preventing potential disclosure of sensitive data to large language models (LLMs).
 
