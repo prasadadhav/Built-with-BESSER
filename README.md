@@ -19,7 +19,7 @@ A Customer Relationship Management system generated with BESSER, showcasing how 
 
 ### SkillMatcher
 
-A skill matching application that lets colleages or fellow students to look for their teachers to learn skills. The app can match leraners and teachers automatically, setup sessions to learn an collect reviews too. This app is generated with BESSER.
+A skill matching application that lets colleages or fellow students to look for their teachers to learn skills. The app can match learners and teachers automatically, setup sessions to learn an collect reviews too. This app is generated with BESSER.
 
 | Version | Description | Link |
 |---------|-------------|------|
